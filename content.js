@@ -1,6 +1,7 @@
 ;(function () {
   "use strict";
 
+  
   console.log('[Content Script] Auto Scorer v6.0 (Simple/Advanced with Persistence) Loaded.');
 
   let uiInjected = false;
